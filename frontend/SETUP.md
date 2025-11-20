@@ -1,11 +1,5 @@
 # SketchCue - Setup Guide
 
-## ✅ Project Complete!
-
-Your SketchCue application is now fully functional with Firebase authentication and canvas drawing capabilities.
-
-## 🎯 Features Implemented
-
 ### 1. **Firebase Authentication**
 
 - ✅ Email/Password sign-up and login
@@ -209,18 +203,6 @@ In `src/lib/sketch.ts`, modify the `30 * 60 * 1000` (30 minutes) and `3` (max sk
 
 In `src/components/CanvasDraw.tsx`, change the `width` and `height` props on the canvas element.
 
-## 📝 Next Steps
-
-Consider adding:
-
-- [ ] Sketch editing capabilities
-- [ ] Sketch sharing features
-- [ ] Download sketch as image
-- [ ] Dark mode support
-- [ ] Email verification
-- [ ] Password reset functionality
-- [ ] User profile page
-- [ ] Search and filter sketches
 
 ## 🆘 Troubleshooting
 
